@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  table, th, td {
+    border: 1px solid rgb(59, 19, 19);
+    background-color: brown;
+    border-collapse: collapse;
+    text-align: justify;
+    align-content: center;
+    align-items: initial;
+    
+  }
+  body {
+  background-color:teal;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+  }
+  .Menu
+  {
+    text-align: justify;
+    margin: 30% auto;
+    color: beige;
+    width: fit-content;
+    height: fit-content;
+
+  }
+  .Inside
+  {
+    padding: auto;
+    margin:auto;
+    width: 12px;
+    height:12px;
+    
+  }
+  td,th
+  {
+   padding: 30px;
+   border-style: double;
+   
+  }
+  nav{
+    font-size: x-large;
+    color: brown;
+    text-align: justify;
+    box-sizing: border-box;
+  }
+  p{
+    text-align: justify;
+    color: aliceblue;
+      border-color:black;
+   margin: 5px;
+   border: 3px;
+  }
+  h1{
+    color: blanchedalmond;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  a{
+    
+    width: max-content;
+  }
