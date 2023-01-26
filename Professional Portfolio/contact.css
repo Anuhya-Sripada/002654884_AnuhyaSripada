@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:aliceblue;
+    background-image: url(Screenshot\ 2023-01-26\ at\ 7.02.26\ PM.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+  }
+  header {
+    background-color:#091e0a;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+  }
+  
+  header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header nav li {
+    display: inline-block;
+    margin-right: 1em;
+  }
+  
+  header nav a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  
+  h1 {
+    text-align: center;
+    color:#fff;
+  }
+  
+  form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    color: white;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  input[type="text"], input[type="email"], textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  input[type="submit"] {
+    background-color:#091e0a;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  input[type="submit"]:hover {
+    background-color:purple;
+  }
+  .text{
+     color: white;
+  }
+  
