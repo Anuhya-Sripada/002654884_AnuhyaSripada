@@ -1,0 +1,34 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th{
+    background-color: green;
+  }
+  th, td {
+    border: 1px solid black;
+    padding: 8px;
+    
+  }
+  
+  #submit-button {
+    background-color: gray;
+  }
+  
+  .selected-row {
+    background-color: yellow;
+  }
+  
+  .deleteBtn, .editBtn {
+    background-color:white;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .deleteBtn:hover, .editBtn:hover {
+    background-color: orange;
+  }
+  
